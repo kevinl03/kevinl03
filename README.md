@@ -4,6 +4,16 @@
   </a>
 </h1>
 
+```python
+ 🏫 Computer Science student in my second year at Simon Fraser University 🏫
+
+ 🔒 Passionate about cryptography in the field of theoretical computing 🔒
+ 
+ ⚽ Soccer and Skiing are my favourite sports, been doing it since age of 4 ⚽
+```
+ 
+ 
+
 ## Top Projects:
 
 <a href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line">
