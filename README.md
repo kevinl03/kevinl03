@@ -11,7 +11,7 @@ Im a computing science student in my second year of studies at Simon Fraser Univ
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
 
 
-## Media **
+## Media**
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/kevin-litvin/" alt="Linkedin">
