@@ -10,7 +10,8 @@ Im a computing science student in my second year of studies at Simon Fraser Univ
 
 ![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
 
-[I'm a relative reference to a repository file](https://github.com/alexandresaints/alexandresaints)
+
+[Animation credits](https://github.com/alexandresaints/alexandresaints)
 
 - 📫 How to reach me: klitvin101@gmail.com
 - 💬 Website: kevinl03@github.io
