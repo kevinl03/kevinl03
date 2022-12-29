@@ -6,7 +6,7 @@
 
 ## About me
 
-  ```python
+  ```cpp
 
  🔒 I have great interest in cryptography in the theoretical field of computing 🔒
  
