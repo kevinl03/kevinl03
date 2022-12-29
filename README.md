@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/kevinl03/Goal-Tracking-app">
+<a href="https://github.com/kevinl03/Goal-Tracking-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03repo=Goal-Tracking-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
