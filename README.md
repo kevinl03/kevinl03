@@ -27,7 +27,9 @@
 
 </div><br>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kevinl03&theme=dracula&hide_langs_below=1" align = "center"/>
+
+![Stats Overview](https://raw.githubusercontent.com/kevinl03/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/kevinl03/github-stats-transparent/output/generated/languages.svg)
 
 
 ## Media
