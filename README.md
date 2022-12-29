@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-```python
+```cpp
  🏫 Computer Science student in my second year at Simon Fraser University 🏫
 
  🔒 Passionate about cryptography in the field of theoretical computing 🔒
