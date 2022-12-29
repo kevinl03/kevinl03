@@ -14,8 +14,6 @@
  
  ⚽ Fun fact: I enjoy playing soccer & I have played since I was 4 years old ⚽
  ```
- 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width = "200px"/>
 
 
 ## Languages and Tools:
