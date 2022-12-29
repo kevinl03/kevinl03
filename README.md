@@ -18,10 +18,11 @@
 
 ## Languages and Tools:
 
+![img](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png))&nbsp;&nbsp;&nbsp;&nbsp;
 <div style="display: inline_block"><br>
 
 <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-![img](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png))&nbsp;&nbsp;&nbsp;&nbsp;
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png))&nbsp;&nbsp;&nbsp;&nbsp;
   
 <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"/>
   
