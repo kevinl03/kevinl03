@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, my name is Kevin 👋
+
+Im a computing science student in my second year of studies at Simon Fraser University
+
 
 **kevinl03/kevinl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
+
+animation credit: alexandresaints
+
+- 📫 How to reach me: klitvin101@gmail.com
+- 💬 Website: kevinl03@github.io
 
