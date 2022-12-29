@@ -4,18 +4,6 @@
   </a>
 </h1>
 
-## About me
-
-  ```cpp
-
- 🔒 I have great interest in cryptography in the theoretical field of computing 🔒
- 
- ⚡ Currently working on SFU team phantom controls team to test safety features⚡
- 
- ⚽ Fun fact: I enjoy playing soccer & I have played since I was 4 years old ⚽
- ```
-
-
 ## Languages and Tools:
 
 <div style="display: inline_block"><br>
