@@ -2,10 +2,16 @@
 
 Im a computing science student in my second year of studies at Simon Fraser University
 
+**Languages and Tools:**  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-**kevinl03/kevinl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
 
 
+## Media **
 
 <p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/kevin-litvin/" alt="Linkedin">
