@@ -1,6 +1,6 @@
 ### Hi there, my name is Kevin 👋
 
-##About me
+## About me
 
 
  🏫 I am a computing science student in my second year at Simon Fraser University 🏫
@@ -12,7 +12,7 @@
  ⚽ Fun fact: I enjoy playing soccer and I've been playing since I was 4 years old ⚽
 
 
-##Languages and Tools:
+## Languages and Tools:
 
 <div style="display: inline_block"><br>
 
