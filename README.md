@@ -8,11 +8,11 @@
 
  🔒 I have great interest in cryptography in the theoretical field of computing 🔒
  
- ⚡ Currently working on SFU team phantom controls team to test safety features on the electric car ⚡
+ ⚡ Currently working on SFU team phantom controls team to test safety features⚡
  
  ⚽ Fun fact: I enjoy playing soccer and I've been playing since I was 4 years old ⚽
  
- <img align="center" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 
 
 ## Languages and Tools:
