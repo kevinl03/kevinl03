@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+## Top Projects:
+
+<a href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 ## Languages and Tools:
 
 <div style="display: inline_block"><br>
@@ -25,13 +31,6 @@
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinl03&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" height = "200px"/>
 </a>
-
-## Top Projects:
-
-<a href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 
 
 ## Media
