@@ -22,7 +22,7 @@
 
 </div><br>
 
-<img align = "right" height = "280" width = "280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+<img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
 
 
 ## Media
