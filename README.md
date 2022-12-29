@@ -10,6 +10,7 @@
  ⚡ Currently working on SFU team phantom controls team to test safety features on the electric car ⚡
  ⚽ Fun fact: I enjoy playing soccer and I've been playing since I was 4 years old ⚽
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ## Languages and Tools:
 
@@ -22,7 +23,7 @@
 
 </div><br>
 
-<img height = "280" width = "280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+<img align = "right" height = "280" width = "280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
 
 
 ## Media
