@@ -12,7 +12,7 @@
  
  ⚡ Currently working on SFU team phantom controls team to test safety features⚡
  
- ⚽ Fun fact: I enjoy playing soccer and I've been playing since I was 4 years old ⚽
+ ⚽ Fun fact: I enjoy playing soccer & I have played since I was 4 years old ⚽
  ```
  
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width = "200px"/>
