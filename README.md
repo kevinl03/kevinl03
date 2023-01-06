@@ -54,7 +54,7 @@
 
 
 
-## Media
+<h2 align="center">💻 Media 💻</h2>
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/kevin-litvin/" alt="Linkedin">
