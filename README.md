@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/kevinl03/Goal-Tracking-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Goal-Tracking-Phone-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Goal-Tracking-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## Languages and Tools:
