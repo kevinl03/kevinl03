@@ -25,7 +25,6 @@
 <h4 align="center">
   <a href="https://github.com/kevinl03?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<br><br><br><br><br><br>
 <!--
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
