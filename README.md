@@ -22,6 +22,7 @@
   <a align="left" href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line" title="Team Phantom: SFU Formula SAE Electric"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/kevinl03/Goal-Tracking-Phone-App" title="Phone App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Goal-Tracking-Phone-App&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<!--
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -49,6 +50,7 @@
 <a href="https://github.com/kevinl03/Goal-Tracking-Phone-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Goal-Tracking-Phone-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+-->
 
 ## Languages and Tools:
 
