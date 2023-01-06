@@ -47,24 +47,10 @@
   <a align="right" href="https://github.com/kevinl03/Tic-Tac-Toe" title="Tic Tac Toe Game"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Tic-Tac-Toe&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-## Languages and Tools:
-
-<div style="display: inline_block"><br>
-
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
- 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"/>
-  
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-  
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-</div><br>
 
 
 
