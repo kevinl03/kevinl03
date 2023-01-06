@@ -15,7 +15,7 @@
 <h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sfuphantom/vcu-fw" title="Team Phantom: SFU Formula SAE"><img align="left" width = "400" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kevinl03/Encryption" title="EncryptedFiles"><img align="right" width = "400" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Encryption&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sfuphantom/vcu-fw" title="Team Phantom: SFU Formula SAE"><img align="left" width = "300" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kevinl03/Encryption" title="EncryptedFiles"><img align="right" width = "300" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Encryption&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
