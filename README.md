@@ -41,6 +41,7 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/sfuphantom/vcu-fw" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kevinl03/Encryption" title="EncryptedFiles"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Encryption&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/kevinl03/Goal-Tracking-Phone-App" title="Goal-Tracking-App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Goal-Tracking-Phone-App&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/kevinl03/Tic-Tac-Toe" title="Tic Tac Toe Game"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Tic-Tac-Toe&theme=react&border_color=61dafb&border_radius=10"></a>
