@@ -19,7 +19,7 @@
   <a align="right" href="https://github.com/kevinl03/2D-Arcade-Game" title="2D Arcade Game"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=2D-Arcade-Game&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sfuphantom/vcu-fw" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kevinl03/Encryption" title="EncryptedFiles"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Encryption&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kevinl03/Encryption" title="EncryptedFiles"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Encryption&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br>
 <br/><br/><br/><br/>
