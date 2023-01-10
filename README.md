@@ -9,7 +9,7 @@
 
  🔒 Passionate about cryptography in the field of theoretical computing 🔒
  
- ⚽ Soccer and Skiing are my favourite sports. Started when I was 4 years old ⚽
+ ⚽ Soccer and Skiing are my favourite sports. I started when I was 4 years old ⚽
 ```
 
 <h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2>
