@@ -13,7 +13,7 @@
 ```
 <h2 align="center">👨‍💻 Top Repositories 👨‍💻</h2> 
 
-Refer to pinned repos below
+<p align = "center"> Refer to pinned repos below </p>
 
 
  
