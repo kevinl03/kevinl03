@@ -18,7 +18,7 @@
 
 <div width="100%" align="center"> 
 
-  <a align="left" href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kevinl03/Encryption" title="EncryptedFiles"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Encryption&theme=react&border_color=61dafb&border_radius=10"></a> 
+  <a align="left" href="https://github.com/sfuphantom/vcu-fw/tree/Throttle_Simulator_Script/command-line" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ProtoAce/Picchat/tree/groupsjai" title="Hackathon 2023"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ProtoAce&repo=Picchat&theme=react&border_color=61dafb&border_radius=10"></a> 
 
 </div> 
 
