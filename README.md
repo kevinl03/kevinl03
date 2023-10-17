@@ -9,16 +9,13 @@
 <br> 
 
 <div width="100%" align="center"> 
-
-  <a align="left" href="https://github.com/kevinl03/Goal-Tracking-Phone-App" title="Goal-Tracking-App"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=Goal-Tracking-Phone-App&theme=react&border_color=61dafb&border_radius=10"></a> 
-
   <a align="right" href="https://github.com/kevinl03/2D-Arcade-Game" title="2D Arcade Game"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=2D-Arcade-Game&theme=react&border_color=61dafb&border_radius=10"></a> 
 
 </div> 
 
 <div width="100%" align="center">
 
-  <a align="left" href="https://github.com/sfuphantom/vcu-fw/tree/VCUSimulationIntegration/command-line" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ProtoAce/Picchat/tree/groupsjai" title="Hackathon 2023"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ProtoAce&repo=Picchat&theme=react&border_color=61dafb&border_radius=10"></a> 
+  <a align="left" href="https://github.com/sfuphantom/vcu-fw/tree/VCUSimulationIntegration/command-line" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div> 
 
