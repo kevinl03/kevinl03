@@ -8,6 +8,13 @@
 
 <br> 
 
+<div width="100%" align="center">
+
+  <a align="center" href="https://github.com/sfuphantom/TestingFramework" title="Team Phantom: SFU Formula SAE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=TestingFramework&theme=react&border_color=61dafb&border_radius=10"></a>
+
+</div> 
+
+<br>
 
 <div width="100%" align="center">
 
@@ -20,11 +27,9 @@
 
 </div> 
 
-<br> 
+<br>  
 
-<br><br><br><br> 
-
-<br/><br/><br/><br/> 
+<br/><br/>
 
 <h4 align="center"> 
 
