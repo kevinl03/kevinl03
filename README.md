@@ -9,7 +9,7 @@
 <br> 
 
 <div width="100%" align="center"> 
-  <a align="center" href="https://github.com/kevinl03/2D-Arcade-Game" title="2D Arcade Game"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=2D-Arcade-Game&theme=react&border_color=61dafb&border_radius=10"></a> 
+  <a align="center" href="https://github.com/kevinl03/2D-Arcade-Game" title="2D Arcade Game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=2D-Arcade-Game&theme=react&border_color=61dafb&border_radius=10"></a> 
 
 </div> 
 
