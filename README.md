@@ -8,18 +8,19 @@
 
 <br> 
 
+
+<div width="100%" align="center">
+
+  <a align="center" href="https://github.com/sfuphantom/vcu-fw/tree/VCUSimulationIntegration/command-line" title="Team Phantom: SFU Formula SAE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a>
+
+</div> 
+
 <div width="100%" align="center"> 
   <a align="center" href="https://github.com/kevinl03/2D-Arcade-Game" title="2D Arcade Game"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinl03&repo=2D-Arcade-Game&theme=react&border_color=61dafb&border_radius=10"></a> 
 
 </div> 
 
 <br> 
-
-<div width="100%" align="center">
-
-  <a align="center" href="https://github.com/sfuphantom/vcu-fw/tree/VCUSimulationIntegration/command-line" title="Team Phantom: SFU Formula SAE"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=vcu-fw&theme=react&border_color=61dafb&border_radius=10"></a>
-
-</div> 
 
 <br><br><br><br> 
 
