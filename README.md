@@ -10,7 +10,7 @@
 
 <div width="100%" align="center">
 
-  <a align="center" href="https://github.com/sfuphantom/VCU-SIL-Framework-Setup" title="Team Phantom: SFU Formula SAE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&VCU-SIL-Framework-Setup&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="center" href="https://github.com/sfuphantom/VCU-SIL-Framework-Setup" title="Team Phantom: SFU Formula SAE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sfuphantom&repo=VCU-SIL-Framework-Setup&theme=react&border_color=61dafb&border_radius=10"></a>
 
 </div> 
 
