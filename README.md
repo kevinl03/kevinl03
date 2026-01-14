@@ -29,19 +29,31 @@
 [![Language](https://img.shields.io/github/languages/top/sfuphantom/VCU-SIL-Framework-Setup?style=for-the-badge&color=61dafb)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup)
 
 <a href="https://github.com/sfuphantom/VCU-SIL-Framework-Setup">
-  <img src="./images/VCUTaskPriority.jpg" alt="VCU SIL Framework Project" width="600" style="border-radius: 10px; margin: 10px;" />
+  <img src="./images/VCU_SIL_Architecture.png" alt="VCU SIL Framework Project" width="600" style="border-radius: 10px; margin: 10px;" />
 </a>
 
 <br><br>
 
-### 🧪 VCU Framework (vcu-fw)
+### 🧪 Testing Framework
+[![Repo](https://img.shields.io/badge/Repo-TestingFramework-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/TestingFramework)
+[![Stars](https://img.shields.io/github/stars/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/TestingFramework/stargazers)
+[![Forks](https://img.shields.io/github/forks/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/TestingFramework/network/members)
+[![Language](https://img.shields.io/github/languages/top/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb)](https://github.com/sfuphantom/TestingFramework)
+
+<a href="https://github.com/sfuphantom/TestingFramework">
+  <img src="./images/vcu_hil_with_cloud_pipeline.png" alt="Testing Framework Project" width="600" style="border-radius: 10px; margin: 10px;" />
+</a>
+
+<br><br>
+
+### ⚡ VCU Framework (vcu-fw)
 [![Repo](https://img.shields.io/badge/Repo-vcu--fw-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/vcu-fw)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/vcu-fw/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/vcu-fw/network/members)
 [![Language](https://img.shields.io/github/languages/top/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb)](https://github.com/sfuphantom/vcu-fw)
 
 <a href="https://github.com/sfuphantom/vcu-fw">
-  <img src="./images/TestingFrameSim.jpg" alt="VCU Framework Project" width="600" style="border-radius: 10px; margin: 10px;" />
+  <img src="./images/VCUTaskPriority.jpg" alt="VCU Framework Project" width="600" style="border-radius: 10px; margin: 10px;" />
 </a>
 
 </div> 
@@ -68,7 +80,7 @@
   <img src="https://img.shields.io/github/stars/kevinl03?style=for-the-badge&label=Total%20Stars&color=61dafb&logo=github" alt="GitHub Stars" />
   <br><br>
   <img src="https://img.shields.io/github/last-commit/kevinl03/kevinl03?style=for-the-badge&label=Last%20Commit&color=61dafb&logo=github" alt="Last Commit" />
-</div>
+  </div>
 
 <hr>
 
@@ -84,7 +96,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   &nbsp;
-  <a target="_blank" href="mailto:klitvin101@gmail.com" alt="Gmail">
+   <a target="_blank" href="mailto:klitvin101@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
