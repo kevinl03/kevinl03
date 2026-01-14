@@ -56,6 +56,10 @@
   <img src="./images/VCUTaskPriority.jpg" alt="VCU Framework Project" width="600" style="border-radius: 10px; margin: 10px;" />
 </a>
 
+<a href="https://github.com/sfuphantom/vcu-fw">
+  <img src="./images/EV-VCU-System.png" alt="EV-VCU-System Architecture" width="600" style="border-radius: 10px; margin: 10px;" />
+</a>
+
 </div> 
 
 <br>  
