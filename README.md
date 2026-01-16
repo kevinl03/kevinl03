@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 💹 Stablecoin Cross-Exchange Arbitrage
+### 💹 Stablecoin Cross-Exchange Arbitrage - Development towards publishing
 [![Repo](https://img.shields.io/badge/Repo-Stablecoin--CrossExchange--Arbitrage-61dafb?style=for-the-badge&logo=github)](https://github.com/kevinl03/Stablecoin-CrossExchange-Arbitrage)
 [![Stars](https://img.shields.io/github/stars/kevinl03/Stablecoin-CrossExchange-Arbitrage?style=for-the-badge&color=61dafb&logo=github)](https://github.com/kevinl03/Stablecoin-CrossExchange-Arbitrage/stargazers)
 [![Forks](https://img.shields.io/github/forks/kevinl03/Stablecoin-CrossExchange-Arbitrage?style=for-the-badge&color=61dafb&logo=github)](https://github.com/kevinl03/Stablecoin-CrossExchange-Arbitrage/network/members)
