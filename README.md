@@ -22,7 +22,7 @@
 
 <br><br>
 
-### 💻 Software in The Loop Infrastructure - Vehicle Control Unit
+### 💻 Vehicle Software in The Loop Infrastructure - RTOS Emulation
 [![Repo](https://img.shields.io/badge/Repo-VCU--SIL--Framework--Setup-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/VCU-SIL-Framework-Setup?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/VCU-SIL-Framework-Setup?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup/network/members)
@@ -34,7 +34,7 @@
 
 <br><br>
 
-### 📊 Simulation Framework - Vehicle Control Unit + Battery Management System
+### 📊 Simulation Framework - Controls System + Battery
 [![Repo](https://img.shields.io/badge/Repo-TestingFramework-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/TestingFramework)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/TestingFramework/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/TestingFramework/network/members)
@@ -46,7 +46,7 @@
 
 <br><br>
 
-### 🏎️  Firmware - Vehicle Control Unit(vcu-fw)
+### 🏎️  Firmware - Embedded Vehicle Controls
 [![Repo](https://img.shields.io/badge/Repo-vcu--fw-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/vcu-fw)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/vcu-fw/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/vcu-fw/network/members)
