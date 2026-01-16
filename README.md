@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🔄 Stablecoin Cross-Exchange Arbitrage
+### 💹 Stablecoin Cross-Exchange Arbitrage
 [![Repo](https://img.shields.io/badge/Repo-Stablecoin--CrossExchange--Arbitrage-61dafb?style=for-the-badge&logo=github)](https://github.com/kevinl03/Stablecoin-CrossExchange-Arbitrage)
 [![Stars](https://img.shields.io/github/stars/kevinl03/Stablecoin-CrossExchange-Arbitrage?style=for-the-badge&color=61dafb&logo=github)](https://github.com/kevinl03/Stablecoin-CrossExchange-Arbitrage/stargazers)
 [![Forks](https://img.shields.io/github/forks/kevinl03/Stablecoin-CrossExchange-Arbitrage?style=for-the-badge&color=61dafb&logo=github)](https://github.com/kevinl03/Stablecoin-CrossExchange-Arbitrage/network/members)
@@ -22,7 +22,7 @@
 
 <br><br>
 
-### ⚙️ VCU SIL Framework Setup
+### 💻 Software in The Loop Infrastructure - Vehicle Control Unit
 [![Repo](https://img.shields.io/badge/Repo-VCU--SIL--Framework--Setup-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/VCU-SIL-Framework-Setup?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/VCU-SIL-Framework-Setup?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/VCU-SIL-Framework-Setup/network/members)
@@ -34,7 +34,7 @@
 
 <br><br>
 
-### 🧪 Testing Framework
+### 📊 Simulation Framework - Vehicle Control Unit + Battery Management System
 [![Repo](https://img.shields.io/badge/Repo-TestingFramework-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/TestingFramework)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/TestingFramework/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/TestingFramework?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/TestingFramework/network/members)
@@ -46,7 +46,7 @@
 
 <br><br>
 
-### ⚡ VCU Framework (vcu-fw)
+### 🏎️  Firmware - Vehicle Control Unit(vcu-fw)
 [![Repo](https://img.shields.io/badge/Repo-vcu--fw-61dafb?style=for-the-badge&logo=github)](https://github.com/sfuphantom/vcu-fw)
 [![Stars](https://img.shields.io/github/stars/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/vcu-fw/stargazers)
 [![Forks](https://img.shields.io/github/forks/sfuphantom/vcu-fw?style=for-the-badge&color=61dafb&logo=github)](https://github.com/sfuphantom/vcu-fw/network/members)
